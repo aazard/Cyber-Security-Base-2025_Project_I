@@ -82,7 +82,7 @@ The fix involves adding proper authentication and authorisation checks to the AP
 
 
 ## **FLAW 3: A05:2021-Security Misconfiguration**
-_https://github.com/aazard/Cyber-Security-Base-2025_Project-I/tree/main/mysite/settings.py#L23_
+_https://github.com/aazard/Cyber-Security-Base-2025_Project-I/tree/blob/main/mysite/settings.py#L23_
 
 ### **Description:**
 The application has several security misconfigurations in its Django settings:
@@ -102,7 +102,7 @@ These misconfigurations expose the application to various security risks:
 - Disabled clickjacking protection allows the application to be embedded in malicious frames
 
 ### **Solution:**
-_https://github.com/aazard/Cyber-Security-Base-2025_Project-I/tree/main/mysite/settings.py#L130_
+_https://github.com/aazard/Cyber-Security-Base-2025_Project-I/tree/blob/main/mysite/settings.py#L130_
 
 The fix involves properly configuring Django's security settings, which ensure that:
 - The secret key is stored in environment variables
