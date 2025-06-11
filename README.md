@@ -2,6 +2,8 @@
 
 LINK: _https://github.com/aazard/Cyber-Security-Base-2025_Project-I.git_
 
+I'm Jeffrey Witty, a very shy, Christian cybersecurity enthusiast with an INTJ personality type, I approach this project with hyper-careful diligence, aligning with my faith-driven commitment to excellence.
+
 ## **Basic Information**
 - This project refers to the OWASP Top 10 - **2021** list
   - Flaw 1 and flaw 4 are the same flaw (A03:2021-Injection), but I thought it would be good to put both since it's pretty important I believe
